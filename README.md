@@ -17,10 +17,10 @@
 <h3 align="center">Machine Learning Engineer | Data Scientist </h3>
 <p align="center">
 <a href="https://www.hackerrank.com/amankrpandey11" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_aman" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/amankrpandey1/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="lin_aman" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/amankrpandey1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="lin_aman" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/amankrpandey1" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_aman" height="30" width="40" /></a>
 <a href="https://www.instagram.com/amankrpandey1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta_aman" height="30" width="40" /></a>
-<a href="https://www.facebook.com/amankrpandey1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_aman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amankrpandey1/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="fb_aman" height="30" width="40" /></a>
  <a href = "mailto: oumw.paman0301@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" alt="mail_aman" /></a>
 </p>
 </p>
@@ -93,3 +93,4 @@
 -----
 
 Last Edited on: 27/04/2022
+Best view in Dark Theme
