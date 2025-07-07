@@ -11,7 +11,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Nokia - R&D Chennai` as an `Intern`
+- 🔭 I’m currently working in `ArcelorMittal Digital Consulting` as an `SDE - Machine Learning`
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
